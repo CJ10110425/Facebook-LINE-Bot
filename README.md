@@ -30,6 +30,7 @@ Our team was awarded the "优选团队" (Outstanding Team) prize in the Hsinchu 
 
 ## Demo Video
 
-*Note: A demo video is available, but instructions for uploading it to this README are not provided.*
 
-[Demo Video Link](#)  <!-- You can provide a link to your demo video here -->
+
+https://github.com/kjdevelop/Facebook-LINE-Bot/assets/115779924/90b500f1-bc5b-4a12-82b3-6483df897ece
+
